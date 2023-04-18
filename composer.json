@@ -1,0 +1,12 @@
+{
+  "name": "tbartsc2/328/diner",
+  "authors": [
+    {
+    "name": "Timothy Bartsch",
+    "email": "tbartsch0929@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
